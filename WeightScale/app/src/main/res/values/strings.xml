@@ -9,4 +9,13 @@
     <string name="menu_more">更多</string>
     <string name="menu_square">诊断</string>
 
+    <string name="action_search">搜索</string>
+    <string name="action_add">添加</string>
+
+    <string name="data_continuous_days">持续记录</string>
+    <string name="data_reduce_week">本周体重</string>
+    <string name="data_reduce_month">本月体重</string>
+
+    <string name="activity_title_search_result">检索结果</string>
+
 </resources>
